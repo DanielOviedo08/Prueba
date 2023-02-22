@@ -1,5 +1,7 @@
 //Java Script
 
+//Marco Daniel Oviedo Roman
+
 function cambiarMensaje(){
     document.getElementById("enviado").innerText="Enviado";
 }
